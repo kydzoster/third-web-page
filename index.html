@@ -13,6 +13,9 @@
 <body>
     <nav class="navbar navbar-light bg-light navbar-expand-sm">
         <a href="/" class="navbar-brand">Whiskey Drop</a>
+
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Togglenavigation">
+
         <ul class="navbar-nav mr-auto">
             <li class="active nav-item mr-2"><a class="nav-link" href="/">Home</a></li>
             <li class="nav-item mr-2"><a class="nav-link" href="/about">About</a></li>
@@ -25,7 +28,7 @@
     </nav>
 
     <article class="container mt-3"> <!--mt-3 changes top margin-->
-        <div class="row">
+        <div class="row d-none d-sm-block">
             <div class="col-12">
                 <div class="alert alert-warning">
                 <strong>Sale Now On!</strong> We've got a sale on. Get a 12-month subscription for the price of 6!
@@ -186,6 +189,8 @@
         </section>
         <!-- /.features -->
     </article>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 </body>
 
 </html>
