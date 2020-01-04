@@ -12,3 +12,4 @@ This web page was done during my Bootstrap studies.<br>
 ### view:
 1. https://kydzoster.github.io/third-web-page/
 2. https://github.com/kydzoster/third-web-page/blob/master/index.html
+3. https://github.com/kydzoster/third-web-page/blob/master/css/style.css
