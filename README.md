@@ -7,6 +7,7 @@ This web page was done during my Bootstrap studies.<br>
 1. VSCode
 2. HTML
 3. Bootstrap
+4. CSS
 
 ### view:
 1. https://kydzoster.github.io/third-web-page/
