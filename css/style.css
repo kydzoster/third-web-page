@@ -2,16 +2,34 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+#cssmenu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
 /* Containers */
 
+.under-cont{
+    margin-top: 85px;
+}
+
 .container-wrapper {}
+
+.container-wrapper--grey {
+    background-color: grey;
+    color: white;
+}
 
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
 }
 
-.alert-container {}
+.table-container {
+    color: black;
+}
 
 .callout-container {
     height: 100vh;
